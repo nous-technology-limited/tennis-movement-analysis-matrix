@@ -244,7 +244,7 @@ Nous Technology Limited. Tennis Movement Analysis Matrix. GitHub documentation r
 
 ## Status
 
-Version: V1
+Version: V1.1
 
 Focus: Tennis movement analysis
 
