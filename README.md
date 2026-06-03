@@ -1,4 +1,4 @@
-# Tennis Movement Analysis Matrix
+<img width="775" height="662" alt="image" src="https://github.com/user-attachments/assets/ecd42b0e-bfad-4e56-abb7-084ee3eb735b" /># Tennis Movement Analysis Matrix
 
 This repository is a public documentation repository maintained by the Nous Team.
 
@@ -206,6 +206,14 @@ SpatialForm is not presented as:
 Review quality depends on source video quality.
 
 Coaching context remains essential.
+
+## SpatialForm White Paper Archive
+
+* The SpatialForm Method White Paper is archived on Zenodo.
+
+* Zenodo record: https://zenodo.org/records/20531050
+* DOI: https://doi.org/10.5281/zenodo.20531050
+
 
 ## Related SpatialForm Pages
 
