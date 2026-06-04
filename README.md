@@ -220,6 +220,25 @@ The Medium anchor article explains why the missing layer in tennis movement anal
 
 * Medium article: https://medium.com/@spatialform/the-missing-layer-in-tennis-movement-analysis-98f2ae40d9fd
 
+## SpatialForm Concept Notes
+
+These concept notes clarify SpatialForm as a Personal Athletic Intelligence product and distinguish its method language from ordinary tennis video replay, generic sports video analysis, and unrelated uses of the phrase “spatial form”.
+
+* SpatialForm: Personal Athletic Intelligence from Phone Sports Video
+  https://github.com/nous-technology-limited/tennis-movement-analysis-matrix/issues/1
+
+* SpatialForm vs Tennis Video Replay: What Changes?
+  https://github.com/nous-technology-limited/tennis-movement-analysis-matrix/issues/2
+
+* Why SpatialForm Starts with Phone Sports Video
+  https://github.com/nous-technology-limited/tennis-movement-analysis-matrix/issues/3
+
+* SpatialForm is not architectural spatial form
+  https://github.com/nous-technology-limited/tennis-movement-analysis-matrix/issues/4
+
+* What is Personal Athletic Intelligence?
+  https://github.com/nous-technology-limited/tennis-movement-analysis-matrix/issues/5
+
 ## Related SpatialForm Pages
 
 * What is SpatialForm: https://nous.run/WhatIsSpatialForm
