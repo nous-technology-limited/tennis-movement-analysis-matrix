@@ -214,6 +214,12 @@ The SpatialForm Method White Paper is archived on Zenodo.
 * Zenodo record: https://zenodo.org/records/20531050
 * DOI: https://doi.org/10.5281/zenodo.20531050
 
+## Medium Anchor Article
+
+The Medium anchor article explains why the missing layer in tennis movement analysis is not capture, but readable movement interpretation.
+
+* Medium article: https://medium.com/@spatialform/the-missing-layer-in-tennis-movement-analysis-98f2ae40d9fd
+
 ## Related SpatialForm Pages
 
 * What is SpatialForm: https://nous.run/WhatIsSpatialForm
