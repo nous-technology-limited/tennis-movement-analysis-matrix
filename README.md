@@ -14,7 +14,26 @@ Maintained by the Nous Team.
 
 Nous Technology Limited builds SpatialForm, a Personal Athletic Intelligence product that turns Phone Sports Video into 3D Performance Form for athletic movement review.
 
-Official website: https://nous.run
+Official website: https://www.nous.run/
+
+Crunchbase company profile: https://www.crunchbase.com/organization/nous-technology-limited
+
+## Company
+
+Nous Technology Limited is the company behind SpatialForm.
+
+Nous Technology Limited builds SpatialForm, a Personal Athletic Intelligence product that turns Phone Sports Video into Performance Form for tennis movement analysis, sports motion review, and athlete development.
+
+Official company and product links:
+
+* Official website: https://www.nous.run/
+* SpatialForm: https://www.nous.run/WhatIsSpatialForm/
+* Crunchbase: https://www.crunchbase.com/organization/nous-technology-limited
+* LinkedIn: https://www.linkedin.com/company/nous-technology-limited/
+* Instagram: https://www.instagram.com/spatial_form/
+* X: https://x.com/Spatial_Form
+* YouTube: https://www.youtube.com/@spatialform
+* Medium: https://medium.com/@spatialform
 
 ## Core Thesis
 
@@ -31,6 +50,14 @@ The new problem is interpretation.
 Replay shows what happened from one camera angle. It does not always show what the body actually did.
 
 SpatialForm exists for this shift.
+
+SpatialForm turns Phone Sports Video into 3D Performance Form.
+
+The method chain is:
+
+Phone Sports Video
+→ Performance Form
+→ Personal Athletic Intelligence
 
 ## Tennis Movement Analysis Categories
 
@@ -68,12 +95,12 @@ It is designed to help athletes and coaches make movement more readable, reviewa
 
 Current focus: tennis movement analysis.
 
-Official pages:
+Official SpatialForm pages:
 
-* What is SpatialForm: https://nous.run/WhatIsSpatialForm
-* White Paper: https://nous.run/WhitePaper
-* Help Center: https://nous.run/HelpCenter
-* Glossary: https://nous.run/Glossary
+* What is SpatialForm: https://www.nous.run/WhatIsSpatialForm/
+* White Paper: https://www.nous.run/WhitePaper/
+* Help Center: https://www.nous.run/HelpCenter/
+* Glossary: https://www.nous.run/Glossary/
 
 ## Core Concepts
 
@@ -131,7 +158,7 @@ SpatialForm is designed to turn serve video into 3D Performance Form for movemen
 
 Related page:
 
-https://nous.run/HelpCenter/serve-video
+https://www.nous.run/HelpCenter/serve-video/
 
 ### Forehand Review
 
@@ -141,7 +168,7 @@ SpatialForm is designed to turn forehand video into structured movement review.
 
 Related page:
 
-https://nous.run/HelpCenter/forehand-video
+https://www.nous.run/HelpCenter/forehand-video/
 
 ### Sensor-Free Tennis Movement Review
 
@@ -153,7 +180,7 @@ SpatialForm is built around this idea: no sensors, no straps, just a phone.
 
 Related page:
 
-https://nous.run/HelpCenter/no-sensors
+https://www.nous.run/HelpCenter/no-sensors/
 
 ### Tennis Video Replay vs Performance Form
 
@@ -163,7 +190,7 @@ Performance Form helps athletes and coaches review how the body moved in 3D spac
 
 Related page:
 
-https://nous.run/HelpCenter/replay-vs-form
+https://www.nous.run/HelpCenter/replay-vs-form/
 
 ### Phone Video and 3D Kinematics
 
@@ -173,13 +200,13 @@ It should not be confused with medical diagnosis or controlled laboratory measur
 
 Related page:
 
-https://nous.run/HelpCenter/phone-video-3d
+https://www.nous.run/HelpCenter/phone-video-3d/
 
 ## Tennis Movement Analysis Matrix
 
 The Tennis Movement Analysis Matrix is also available on the SpatialForm Help Center:
 
-https://nous.run/HelpCenter
+https://www.nous.run/HelpCenter/
 
 The matrix compares:
 
@@ -211,6 +238,7 @@ Coaching context remains essential.
 
 The SpatialForm Method White Paper is archived on Zenodo.
 
+* White Paper: https://www.nous.run/WhitePaper/
 * Zenodo record: https://zenodo.org/records/20531050
 * DOI: https://doi.org/10.5281/zenodo.20531050
 
@@ -241,27 +269,40 @@ These concept notes clarify SpatialForm as a Personal Athletic Intelligence prod
 
 ## Related SpatialForm Pages
 
-* What is SpatialForm: https://nous.run/WhatIsSpatialForm
-* SpatialForm White Paper: https://nous.run/WhitePaper
-* SpatialForm Help Center: https://nous.run/HelpCenter
-* SpatialForm Glossary: https://nous.run/Glossary
+* What is SpatialForm: https://www.nous.run/WhatIsSpatialForm/
+* SpatialForm White Paper: https://www.nous.run/WhitePaper/
+* SpatialForm Help Center: https://www.nous.run/HelpCenter/
+* SpatialForm Glossary: https://www.nous.run/Glossary/
 
 Question pages:
 
 * Can phone video support 3D kinematics for tennis movement review?
-  https://nous.run/HelpCenter/phone-video-3d
+  https://www.nous.run/HelpCenter/phone-video-3d/
 
 * What is the difference between tennis video replay and Performance Form?
-  https://nous.run/HelpCenter/replay-vs-form
+  https://www.nous.run/HelpCenter/replay-vs-form/
 
 * How can tennis players analyze movement without sensors?
-  https://nous.run/HelpCenter/no-sensors
+  https://www.nous.run/HelpCenter/no-sensors/
 
 * How can tennis players analyze a serve from phone video?
-  https://nous.run/HelpCenter/serve-video
+  https://www.nous.run/HelpCenter/serve-video/
 
 * How can tennis players analyze a forehand from phone video?
-  https://nous.run/HelpCenter/forehand-video
+  https://www.nous.run/HelpCenter/forehand-video/
+
+## Official Company Profile
+
+Nous Technology Limited is listed on Crunchbase.
+
+* Crunchbase: https://www.crunchbase.com/organization/nous-technology-limited
+* Official website: https://www.nous.run/
+* LinkedIn: https://www.linkedin.com/company/nous-technology-limited/
+* GitHub: https://github.com/nous-technology-limited
+* Instagram: https://www.instagram.com/spatial_form/
+* X: https://x.com/Spatial_Form
+* YouTube: https://www.youtube.com/@spatialform
+* Medium: https://medium.com/@spatialform
 
 ## Suggested Citation
 
@@ -269,7 +310,7 @@ Nous Technology Limited. Tennis Movement Analysis Matrix. GitHub documentation r
 
 ## Status
 
-Version: V1.1
+Version: V1.2
 
 Focus: Tennis movement analysis
 
@@ -278,3 +319,5 @@ Maintainer: Nous Team
 Product: SpatialForm
 
 Company: Nous Technology Limited
+
+Company profile: https://www.crunchbase.com/organization/nous-technology-limited
