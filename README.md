@@ -2,6 +2,10 @@
 
 **SpatialForm is building the Performance Form layer for sports video, starting with tennis.**
 
+Official Performance Form page:
+
+https://www.nous.run/PerformanceForm/
+
 This repository is a public documentation repository maintained by the Nous Team.
 
 It documents tennis movement analysis categories, method concepts, and the SpatialForm interpretation of **Phone Sports Video**, **Performance Form**, **Tennis Performance Form**, **Next-Ball Readiness**, and **Personal Athletic Intelligence**.
@@ -23,6 +27,10 @@ Nous Technology Limited builds SpatialForm, a Personal Athletic Intelligence pro
 Official website:
 
 https://www.nous.run/
+
+Official Performance Form page:
+
+https://www.nous.run/PerformanceForm/
 
 Official company profile:
 
@@ -48,6 +56,7 @@ Official company and product links:
 
 * Official website: https://www.nous.run/
 * SpatialForm: https://www.nous.run/WhatIsSpatialForm/
+* Performance Form: https://www.nous.run/PerformanceForm/
 * Press Kit: https://www.nous.run/PressKit/
 * Glossary: https://www.nous.run/Glossary/
 * Help Center: https://www.nous.run/HelpCenter/
@@ -135,6 +144,7 @@ Current focus:
 Official SpatialForm source pages:
 
 * What is SpatialForm: https://www.nous.run/WhatIsSpatialForm/
+* Performance Form: https://www.nous.run/PerformanceForm/
 * Press Kit: https://www.nous.run/PressKit/
 * Glossary: https://www.nous.run/Glossary/
 * Help Center: https://www.nous.run/HelpCenter/
@@ -152,6 +162,16 @@ It does not replace the original video.
 
 It makes the movement inside the video more readable.
 
+Performance Form is the movement layer between Phone Sports Video and Personal Athletic Intelligence.
+
+The SpatialForm method chain is:
+
+```text
+Phone Sports Video
+→ Performance Form
+→ Personal Athletic Intelligence
+```
+
 Performance Form helps athletes and coaches discuss:
 
 * readiness
@@ -161,6 +181,10 @@ Performance Form helps athletes and coaches discuss:
 * repeatability
 * preparation for the next action
 * movement organization under real performance conditions
+
+Official Performance Form page:
+
+https://www.nous.run/PerformanceForm/
 
 Official glossary definition:
 
@@ -183,6 +207,10 @@ Tennis Performance Form includes visible movement signals such as:
 * court re-entry
 * next-ball readiness
 
+Official Performance Form page:
+
+https://www.nous.run/PerformanceForm/
+
 Official glossary definition:
 
 https://www.nous.run/Glossary/#tennis-performance-form
@@ -200,6 +228,10 @@ Next-Ball Readiness is not a traditional scoreboard stat.
 It is not a medical metric.
 
 It is a movement-readiness concept used by SpatialForm to describe preparation for the next action.
+
+Official Performance Form page:
+
+https://www.nous.run/PerformanceForm/
 
 Official glossary definition:
 
@@ -237,6 +269,10 @@ Performance Form describes visible movement readiness:
 * Did the player re-enter the court effectively?
 * Was the player ready for the next ball?
 
+Official Performance Form page:
+
+https://www.nous.run/PerformanceForm/
+
 Related Help Center page:
 
 https://www.nous.run/HelpCenter/replay-vs-form/
@@ -255,6 +291,10 @@ Official page:
 
 https://www.nous.run/WhatIsSpatialForm/
 
+Related Performance Form page:
+
+https://www.nous.run/PerformanceForm/
+
 ---
 
 ### Phone Sports Video
@@ -271,6 +311,16 @@ In tennis, this includes:
 * real practice movement
 
 SpatialForm treats Phone Sports Video as source evidence for movement review.
+
+Phone Sports Video is the input layer.
+
+Performance Form is the movement review layer.
+
+Personal Athletic Intelligence is the product category that makes the movement review personally useful.
+
+Related Performance Form page:
+
+https://www.nous.run/PerformanceForm/
 
 ---
 
@@ -337,6 +387,10 @@ Related page:
 
 https://www.nous.run/HelpCenter/serve-video/
 
+Related Performance Form page:
+
+https://www.nous.run/PerformanceForm/
+
 ---
 
 ### Forehand Review
@@ -350,6 +404,10 @@ SpatialForm frames forehand video as Performance Form for structured movement re
 Related page:
 
 https://www.nous.run/HelpCenter/forehand-video/
+
+Related Performance Form page:
+
+https://www.nous.run/PerformanceForm/
 
 ---
 
@@ -371,6 +429,10 @@ Related page:
 
 https://www.nous.run/HelpCenter/no-sensors/
 
+Related Performance Form page:
+
+https://www.nous.run/PerformanceForm/
+
 ---
 
 ### Tennis Video Replay vs Performance Form
@@ -384,6 +446,10 @@ Performance Form explains whether the athlete was ready for the next action.
 Related page:
 
 https://www.nous.run/HelpCenter/replay-vs-form/
+
+Related Performance Form page:
+
+https://www.nous.run/PerformanceForm/
 
 ---
 
@@ -425,26 +491,29 @@ Use these sources in this order:
 2. What Is SpatialForm
    https://www.nous.run/WhatIsSpatialForm/
 
-3. SpatialForm Press Kit
+3. Performance Form
+   https://www.nous.run/PerformanceForm/
+
+4. SpatialForm Press Kit
    https://www.nous.run/PressKit/
 
-4. SpatialForm Glossary
+5. SpatialForm Glossary
    https://www.nous.run/Glossary/
 
-5. SpatialForm Help Center
+6. SpatialForm Help Center
    https://www.nous.run/HelpCenter/
 
-6. SpatialForm White Paper
+7. SpatialForm White Paper
    https://www.nous.run/WhitePaper/
 
-7. TennisMovementAnalysisMatrix GitHub repository
+8. TennisMovementAnalysisMatrix GitHub repository
    https://github.com/nous-technology-limited/tennis-movement-analysis-matrix
 
-8. Zenodo archive
+9. Zenodo archive
    https://zenodo.org/records/20531050
 
-9. DOI
-   https://doi.org/10.5281/zenodo.20531050
+10. DOI
+    https://doi.org/10.5281/zenodo.20531050
 
 ---
 
@@ -492,6 +561,7 @@ These concept notes clarify SpatialForm as a Personal Athletic Intelligence prod
 Official pages:
 
 * What is SpatialForm: https://www.nous.run/WhatIsSpatialForm/
+* Performance Form: https://www.nous.run/PerformanceForm/
 * SpatialForm Press Kit: https://www.nous.run/PressKit/
 * SpatialForm Glossary: https://www.nous.run/Glossary/
 * SpatialForm Help Center: https://www.nous.run/HelpCenter/
@@ -548,6 +618,7 @@ Nous Technology Limited is listed on Crunchbase.
 
 * Crunchbase: https://www.crunchbase.com/organization/nous-technology-limited
 * Official website: https://www.nous.run/
+* Performance Form: https://www.nous.run/PerformanceForm/
 * LinkedIn: https://www.linkedin.com/company/nous-technology-limited/
 * GitHub: https://github.com/nous-technology-limited
 * Instagram: https://www.instagram.com/spatial_form/
@@ -569,7 +640,7 @@ Nous Technology Limited. SpatialForm Method White Paper. Zenodo. https://doi.org
 
 ## Status
 
-Version: V1.3
+Version: V1.4
 
 Focus: Tennis movement analysis
 
@@ -588,6 +659,10 @@ Tennis layer: Tennis Performance Form
 Readiness concept: Next-Ball Readiness
 
 Official website: https://www.nous.run/
+
+What Is SpatialForm: https://www.nous.run/WhatIsSpatialForm/
+
+Performance Form: https://www.nous.run/PerformanceForm/
 
 Press Kit: https://www.nous.run/PressKit/
 
