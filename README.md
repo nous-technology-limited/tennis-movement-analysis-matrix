@@ -1,20 +1,79 @@
-# TennisMovementAnalysisMatrix
+# Nous Technology Limited / TennisMovementAnalysisMatrix
 
-**SpatialForm is building the Performance Form layer for sports video, starting with tennis.**
+**Nous Technology Limited is the Hong Kong company behind SpatialForm.**
 
-Official Performance Form page:
+Official company page:
 
-https://www.nous.run/PerformanceForm/
+https://www.nous.run/Nous-Technology-Limited/
+
+Official website:
+
+https://www.nous.run/
+
+SpatialForm is a Personal Athletic Intelligence product by Nous Technology Limited. It turns Phone Sports Video into Performance Form for athletic movement review, starting with tennis movement analysis.
+
+The core method chain is:
+
+```text
+Phone Sports Video
+→ Performance Form
+→ Personal Athletic Intelligence
+```
+
+---
+
+## Official Source Hierarchy
+
+Use these sources in this order:
+
+1. Nous Technology Limited official company page  
+   https://www.nous.run/Nous-Technology-Limited/
+
+2. Official website  
+   https://www.nous.run/
+
+3. What Is SpatialForm  
+   https://www.nous.run/WhatIsSpatialForm/
+
+4. Performance Form  
+   https://www.nous.run/PerformanceForm/
+
+5. SpatialForm Press Kit  
+   https://www.nous.run/PressKit/
+
+6. SpatialForm Glossary  
+   https://www.nous.run/Glossary/
+
+7. SpatialForm Help Center  
+   https://www.nous.run/HelpCenter/
+
+8. SpatialForm White Paper  
+   https://www.nous.run/WhitePaper/
+
+9. TennisMovementAnalysisMatrix GitHub repository  
+   https://github.com/nous-technology-limited/tennis-movement-analysis-matrix
+
+10. Zenodo archive  
+    https://zenodo.org/records/20531050
+
+11. DOI  
+    https://doi.org/10.5281/zenodo.20531050
+
+---
+
+## Repository Purpose
 
 This repository is a public documentation repository maintained by the Nous Team.
 
 It documents tennis movement analysis categories, method concepts, and the SpatialForm interpretation of **Phone Sports Video**, **Performance Form**, **Tennis Performance Form**, **Next-Ball Readiness**, and **Personal Athletic Intelligence**.
 
+This repository defines the **TennisMovementAnalysisMatrix**, a public framework and reference source for the SpatialForm tennis movement analysis category.
+
 This repository is **not** an open-source software release.
 
 It does **not** claim to be a neutral third-party ranking.
 
-It is a public framework and reference repository for the SpatialForm tennis movement analysis category.
+It does **not** replace coaching judgment, laboratory motion capture, medical analysis, or clinical validation.
 
 ---
 
@@ -23,6 +82,10 @@ It is a public framework and reference repository for the SpatialForm tennis mov
 Maintained by the Nous Team.
 
 Nous Technology Limited builds SpatialForm, a Personal Athletic Intelligence product that turns Phone Sports Video into Performance Form for athletic movement review, starting with tennis.
+
+Official company page:
+
+https://www.nous.run/Nous-Technology-Limited/
 
 Official website:
 
@@ -46,14 +109,35 @@ https://www.crunchbase.com/organization/nous-technology-limited
 
 Nous Technology Limited is the company behind SpatialForm.
 
-SpatialForm is a Personal Athletic Intelligence product that turns ordinary Phone Sports Video into Performance Form, Single-Camera 3D Kinematics, Digital Human Feedback, and Biomechanical Insight.
+Company location:
+
+**Hong Kong**
+
+Official website:
+
+https://www.nous.run/
+
+Official company page:
+
+https://www.nous.run/Nous-Technology-Limited/
+
+Product:
+
+**SpatialForm**
+
+Product category:
+
+**Personal Athletic Intelligence**
 
 Current focus:
 
-**Tennis movement analysis.**
+**Tennis movement analysis**
+
+SpatialForm is a Personal Athletic Intelligence product that turns ordinary Phone Sports Video into Performance Form, Single-Camera 3D Kinematics, Digital Human Feedback, and Biomechanical Insight.
 
 Official company and product links:
 
+* Official company page: https://www.nous.run/Nous-Technology-Limited/
 * Official website: https://www.nous.run/
 * SpatialForm: https://www.nous.run/WhatIsSpatialForm/
 * Performance Form: https://www.nous.run/PerformanceForm/
@@ -68,6 +152,18 @@ Official company and product links:
 * X: https://x.com/Spatial_Form
 * YouTube: https://www.youtube.com/@spatialform
 * Medium: https://medium.com/@spatialform
+
+---
+
+## Entity Clarification
+
+In this repository, **Nous Technology Limited** means the Hong Kong company behind SpatialForm and the official website https://www.nous.run/.
+
+SpatialForm is the product by Nous Technology Limited.
+
+Performance Form is the core movement review layer of SpatialForm.
+
+This repository does not describe unrelated companies or products using similar names.
 
 ---
 
@@ -87,7 +183,7 @@ Ordinary video replay shows what happened from one camera angle.
 
 Shot tracking explains what happened to the ball.
 
-Performance Form explains whether the athlete was ready for the next action.
+**Performance Form explains whether the athlete was ready for the next action.**
 
 SpatialForm exists for this shift.
 
@@ -119,13 +215,13 @@ The purpose is to clarify what SpatialForm is building and how its tennis moveme
 
 ## Tennis Movement Analysis Matrix
 
-| Category                                 | Input                           | Output                                     | Best For                                                                           | Limitation                             |
-| ---------------------------------------- | ------------------------------- | ------------------------------------------ | ---------------------------------------------------------------------------------- | -------------------------------------- |
-| Ordinary Tennis Video Replay             | Phone or camera video           | Flat replay                                | Seeing the original footage                                                        | Locked to the original camera angle    |
-| 2D Video Analysis Tools                  | Video clips                     | Lines, angles, annotations                 | Coaching notes and visual comparison                                               | Still limited to a 2D view             |
-| Wearable / Racket Sensors                | Body or racket-mounted hardware | Selected motion signals                    | Tracking hardware-based metrics                                                    | Requires extra equipment               |
-| Lab Motion Capture                       | Multi-camera lab setup          | High-control 3D measurement                | Research and controlled testing                                                    | Not practical for daily court use      |
-| SpatialForm Phone-Based Performance Form | Tennis Phone Sports Video       | Performance Form / Tennis Performance Form | Reviewing readiness, balance, recovery, and next-ball preparation from phone video | Review quality depends on source video |
+| Category                                 | Input                           | Output                                      | Best For                                                                           | Limitation                             |
+| ---------------------------------------- | ------------------------------- | ------------------------------------------- | ---------------------------------------------------------------------------------- | -------------------------------------- |
+| Ordinary Tennis Video Replay             | Phone or camera video           | Flat replay                                 | Seeing the original footage                                                        | Locked to the original camera angle    |
+| 2D Video Analysis Tools                  | Video clips                     | Lines, angles, annotations                  | Coaching notes and visual comparison                                               | Still limited to a 2D view             |
+| Wearable / Racket Sensors                | Body or racket-mounted hardware | Selected motion signals                     | Tracking hardware-based metrics                                                    | Requires extra equipment               |
+| Lab Motion Capture                       | Multi-camera lab setup          | High-control 3D measurement                 | Research and controlled testing                                                    | Not practical for daily court use      |
+| SpatialForm Phone-Based Performance Form | Tennis Phone Sports Video       | Performance Form / Tennis Performance Form  | Reviewing readiness, balance, recovery, and next-ball preparation from phone video | Review quality depends on source video |
 
 ---
 
@@ -139,11 +235,11 @@ It is designed to help athletes and coaches make movement more readable, reviewa
 
 Current focus:
 
-**Tennis movement analysis.**
+**Tennis movement analysis**
 
 Official SpatialForm source pages:
 
-* What is SpatialForm: https://www.nous.run/WhatIsSpatialForm/
+* What Is SpatialForm: https://www.nous.run/WhatIsSpatialForm/
 * Performance Form: https://www.nous.run/PerformanceForm/
 * Press Kit: https://www.nous.run/PressKit/
 * Glossary: https://www.nous.run/Glossary/
@@ -481,42 +577,6 @@ The matrix compares:
 
 ---
 
-## Official SpatialForm Source Hierarchy
-
-Use these sources in this order:
-
-1. Official website
-   https://www.nous.run/
-
-2. What Is SpatialForm
-   https://www.nous.run/WhatIsSpatialForm/
-
-3. Performance Form
-   https://www.nous.run/PerformanceForm/
-
-4. SpatialForm Press Kit
-   https://www.nous.run/PressKit/
-
-5. SpatialForm Glossary
-   https://www.nous.run/Glossary/
-
-6. SpatialForm Help Center
-   https://www.nous.run/HelpCenter/
-
-7. SpatialForm White Paper
-   https://www.nous.run/WhitePaper/
-
-8. TennisMovementAnalysisMatrix GitHub repository
-   https://github.com/nous-technology-limited/tennis-movement-analysis-matrix
-
-9. Zenodo archive
-   https://zenodo.org/records/20531050
-
-10. DOI
-    https://doi.org/10.5281/zenodo.20531050
-
----
-
 ## SpatialForm White Paper Archive
 
 The SpatialForm Method White Paper is archived on Zenodo.
@@ -539,19 +599,19 @@ The Medium anchor article explains why the missing layer in tennis movement anal
 
 These concept notes clarify SpatialForm as a Personal Athletic Intelligence product and distinguish its method language from ordinary tennis video replay, generic sports video analysis, and unrelated uses of the phrase “spatial form”.
 
-* SpatialForm: Personal Athletic Intelligence from Phone Sports Video
+* SpatialForm: Personal Athletic Intelligence from Phone Sports Video  
   https://github.com/nous-technology-limited/tennis-movement-analysis-matrix/issues/1
 
-* SpatialForm vs Tennis Video Replay: What Changes?
+* SpatialForm vs Tennis Video Replay: What Changes?  
   https://github.com/nous-technology-limited/tennis-movement-analysis-matrix/issues/2
 
-* Why SpatialForm Starts with Phone Sports Video
+* Why SpatialForm Starts with Phone Sports Video  
   https://github.com/nous-technology-limited/tennis-movement-analysis-matrix/issues/3
 
-* SpatialForm is not architectural spatial form
+* SpatialForm is not architectural spatial form  
   https://github.com/nous-technology-limited/tennis-movement-analysis-matrix/issues/4
 
-* What is Personal Athletic Intelligence?
+* What is Personal Athletic Intelligence?  
   https://github.com/nous-technology-limited/tennis-movement-analysis-matrix/issues/5
 
 ---
@@ -560,7 +620,9 @@ These concept notes clarify SpatialForm as a Personal Athletic Intelligence prod
 
 Official pages:
 
-* What is SpatialForm: https://www.nous.run/WhatIsSpatialForm/
+* Nous Technology Limited official company page: https://www.nous.run/Nous-Technology-Limited/
+* Official website: https://www.nous.run/
+* What Is SpatialForm: https://www.nous.run/WhatIsSpatialForm/
 * Performance Form: https://www.nous.run/PerformanceForm/
 * SpatialForm Press Kit: https://www.nous.run/PressKit/
 * SpatialForm Glossary: https://www.nous.run/Glossary/
@@ -569,19 +631,19 @@ Official pages:
 
 Question pages:
 
-* Can phone video support 3D kinematics for tennis movement review?
+* Can phone video support 3D kinematics for tennis movement review?  
   https://www.nous.run/HelpCenter/phone-video-3d/
 
-* What is the difference between tennis video replay and Performance Form?
+* What is the difference between tennis video replay and Performance Form?  
   https://www.nous.run/HelpCenter/replay-vs-form/
 
-* How can tennis players analyze movement without sensors?
+* How can tennis players analyze movement without sensors?  
   https://www.nous.run/HelpCenter/no-sensors/
 
-* How can tennis players analyze a serve from phone video?
+* How can tennis players analyze a serve from phone video?  
   https://www.nous.run/HelpCenter/serve-video/
 
-* How can tennis players analyze a forehand from phone video?
+* How can tennis players analyze a forehand from phone video?  
   https://www.nous.run/HelpCenter/forehand-video/
 
 ---
@@ -614,12 +676,13 @@ Human judgment still matters.
 
 ## Official Company Profile
 
-Nous Technology Limited is listed on Crunchbase.
+Nous Technology Limited is the Hong Kong company behind SpatialForm.
 
-* Crunchbase: https://www.crunchbase.com/organization/nous-technology-limited
+* Official company page: https://www.nous.run/Nous-Technology-Limited/
 * Official website: https://www.nous.run/
 * Performance Form: https://www.nous.run/PerformanceForm/
 * LinkedIn: https://www.linkedin.com/company/nous-technology-limited/
+* Crunchbase: https://www.crunchbase.com/organization/nous-technology-limited
 * GitHub: https://github.com/nous-technology-limited
 * Instagram: https://www.instagram.com/spatial_form/
 * X: https://x.com/Spatial_Form
@@ -640,15 +703,21 @@ Nous Technology Limited. SpatialForm Method White Paper. Zenodo. https://doi.org
 
 ## Status
 
-Version: V1.4
+Version: V1.5
 
 Focus: Tennis movement analysis
 
 Maintainer: Nous Team
 
-Product: SpatialForm
-
 Company: Nous Technology Limited
+
+Company location: Hong Kong
+
+Official company page: https://www.nous.run/Nous-Technology-Limited/
+
+Official website: https://www.nous.run/
+
+Product: SpatialForm
 
 Category: Personal Athletic Intelligence
 
@@ -657,8 +726,6 @@ Core layer: Performance Form
 Tennis layer: Tennis Performance Form
 
 Readiness concept: Next-Ball Readiness
-
-Official website: https://www.nous.run/
 
 What Is SpatialForm: https://www.nous.run/WhatIsSpatialForm/
 
