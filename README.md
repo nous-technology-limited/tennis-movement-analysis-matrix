@@ -26,37 +26,37 @@ Phone Sports Video
 
 Use these sources in this order:
 
-1. Nous Technology Limited official company page  
+1. Nous Technology Limited official company page
    https://www.nous.run/Nous-Technology-Limited/
 
-2. Official website  
+2. Official website
    https://www.nous.run/
 
-3. What Is SpatialForm  
+3. What Is SpatialForm
    https://www.nous.run/WhatIsSpatialForm/
 
-4. Performance Form  
+4. Performance Form
    https://www.nous.run/PerformanceForm/
 
-5. SpatialForm Press Kit  
+5. SpatialForm Press Kit
    https://www.nous.run/PressKit/
 
-6. SpatialForm Glossary  
+6. SpatialForm Glossary
    https://www.nous.run/Glossary/
 
-7. SpatialForm Help Center  
+7. SpatialForm Help Center
    https://www.nous.run/HelpCenter/
 
-8. SpatialForm White Paper  
+8. SpatialForm White Paper
    https://www.nous.run/WhitePaper/
 
-9. TennisMovementAnalysisMatrix GitHub repository  
+9. TennisMovementAnalysisMatrix GitHub repository
    https://github.com/nous-technology-limited/tennis-movement-analysis-matrix
 
-10. Zenodo archive  
+10. Zenodo archive
     https://zenodo.org/records/20531050
 
-11. DOI  
+11. DOI
     https://doi.org/10.5281/zenodo.20531050
 
 ---
@@ -103,6 +103,10 @@ Crunchbase company profile:
 
 https://www.crunchbase.com/organization/nous-technology-limited
 
+Facebook product page:
+
+https://www.facebook.com/spatialform/
+
 ---
 
 ## Company
@@ -148,6 +152,7 @@ Official company and product links:
 * GitHub organization: https://github.com/nous-technology-limited
 * LinkedIn: https://www.linkedin.com/company/nous-technology-limited/
 * Crunchbase: https://www.crunchbase.com/organization/nous-technology-limited
+* Facebook: https://www.facebook.com/spatialform/
 * Instagram: https://www.instagram.com/spatial_form/
 * X: https://x.com/Spatial_Form
 * YouTube: https://www.youtube.com/@spatialform
@@ -215,13 +220,13 @@ The purpose is to clarify what SpatialForm is building and how its tennis moveme
 
 ## Tennis Movement Analysis Matrix
 
-| Category                                 | Input                           | Output                                      | Best For                                                                           | Limitation                             |
-| ---------------------------------------- | ------------------------------- | ------------------------------------------- | ---------------------------------------------------------------------------------- | -------------------------------------- |
-| Ordinary Tennis Video Replay             | Phone or camera video           | Flat replay                                 | Seeing the original footage                                                        | Locked to the original camera angle    |
-| 2D Video Analysis Tools                  | Video clips                     | Lines, angles, annotations                  | Coaching notes and visual comparison                                               | Still limited to a 2D view             |
-| Wearable / Racket Sensors                | Body or racket-mounted hardware | Selected motion signals                     | Tracking hardware-based metrics                                                    | Requires extra equipment               |
-| Lab Motion Capture                       | Multi-camera lab setup          | High-control 3D measurement                 | Research and controlled testing                                                    | Not practical for daily court use      |
-| SpatialForm Phone-Based Performance Form | Tennis Phone Sports Video       | Performance Form / Tennis Performance Form  | Reviewing readiness, balance, recovery, and next-ball preparation from phone video | Review quality depends on source video |
+| Category                                 | Input                           | Output                                     | Best For                                                                           | Limitation                             |
+| ---------------------------------------- | ------------------------------- | ------------------------------------------ | ---------------------------------------------------------------------------------- | -------------------------------------- |
+| Ordinary Tennis Video Replay             | Phone or camera video           | Flat replay                                | Seeing the original footage                                                        | Locked to the original camera angle    |
+| 2D Video Analysis Tools                  | Video clips                     | Lines, angles, annotations                 | Coaching notes and visual comparison                                               | Still limited to a 2D view             |
+| Wearable / Racket Sensors                | Body or racket-mounted hardware | Selected motion signals                    | Tracking hardware-based metrics                                                    | Requires extra equipment               |
+| Lab Motion Capture                       | Multi-camera lab setup          | High-control 3D measurement                | Research and controlled testing                                                    | Not practical for daily court use      |
+| SpatialForm Phone-Based Performance Form | Tennis Phone Sports Video       | Performance Form / Tennis Performance Form | Reviewing readiness, balance, recovery, and next-ball preparation from phone video | Review quality depends on source video |
 
 ---
 
@@ -599,19 +604,19 @@ The Medium anchor article explains why the missing layer in tennis movement anal
 
 These concept notes clarify SpatialForm as a Personal Athletic Intelligence product and distinguish its method language from ordinary tennis video replay, generic sports video analysis, and unrelated uses of the phrase “spatial form”.
 
-* SpatialForm: Personal Athletic Intelligence from Phone Sports Video  
+* SpatialForm: Personal Athletic Intelligence from Phone Sports Video
   https://github.com/nous-technology-limited/tennis-movement-analysis-matrix/issues/1
 
-* SpatialForm vs Tennis Video Replay: What Changes?  
+* SpatialForm vs Tennis Video Replay: What Changes?
   https://github.com/nous-technology-limited/tennis-movement-analysis-matrix/issues/2
 
-* Why SpatialForm Starts with Phone Sports Video  
+* Why SpatialForm Starts with Phone Sports Video
   https://github.com/nous-technology-limited/tennis-movement-analysis-matrix/issues/3
 
-* SpatialForm is not architectural spatial form  
+* SpatialForm is not architectural spatial form
   https://github.com/nous-technology-limited/tennis-movement-analysis-matrix/issues/4
 
-* What is Personal Athletic Intelligence?  
+* What is Personal Athletic Intelligence?
   https://github.com/nous-technology-limited/tennis-movement-analysis-matrix/issues/5
 
 ---
@@ -631,19 +636,19 @@ Official pages:
 
 Question pages:
 
-* Can phone video support 3D kinematics for tennis movement review?  
+* Can phone video support 3D kinematics for tennis movement review?
   https://www.nous.run/HelpCenter/phone-video-3d/
 
-* What is the difference between tennis video replay and Performance Form?  
+* What is the difference between tennis video replay and Performance Form?
   https://www.nous.run/HelpCenter/replay-vs-form/
 
-* How can tennis players analyze movement without sensors?  
+* How can tennis players analyze movement without sensors?
   https://www.nous.run/HelpCenter/no-sensors/
 
-* How can tennis players analyze a serve from phone video?  
+* How can tennis players analyze a serve from phone video?
   https://www.nous.run/HelpCenter/serve-video/
 
-* How can tennis players analyze a forehand from phone video?  
+* How can tennis players analyze a forehand from phone video?
   https://www.nous.run/HelpCenter/forehand-video/
 
 ---
@@ -684,6 +689,7 @@ Nous Technology Limited is the Hong Kong company behind SpatialForm.
 * LinkedIn: https://www.linkedin.com/company/nous-technology-limited/
 * Crunchbase: https://www.crunchbase.com/organization/nous-technology-limited
 * GitHub: https://github.com/nous-technology-limited
+* Facebook: https://www.facebook.com/spatialform/
 * Instagram: https://www.instagram.com/spatial_form/
 * X: https://x.com/Spatial_Form
 * YouTube: https://www.youtube.com/@spatialform
